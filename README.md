@@ -11,15 +11,15 @@
 
  I created Controller
   -- -----------
-   1 composer require guzzlehttp/guzzle
-   2 php artisan make:controller CategoryController --resource
-   3 php artisan make:controller CustomerController --resource
-   4 php artisan make:controller EmployeeController --resource
-   5 php artisan make:controller OrderDetailController --resource
-   6 php artisan make:controller OrderController  --resource
-   7 php artisan make:controller ProductController  --resource
-   8 php artisan make:controller ShipperController  --resource
-   9 php artisan make:controller SupplierController  --resource
+   1 composer require guzzlehttp/guzzle <br>
+   2 php artisan make:controller CategoryController --resource <br>
+   3 php artisan make:controller CustomerController --resource <br>
+   4 php artisan make:controller EmployeeController --resource <br>
+   5 php artisan make:controller OrderDetailController --resource <br>
+   6 php artisan make:controller OrderController  --resource <br>
+   7 php artisan make:controller ProductController  --resource <br>
+   8 php artisan make:controller ShipperController  --resource <br>
+   9 php artisan make:controller SupplierController  --resource <br>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
